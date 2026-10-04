@@ -1,2 +1,2 @@
 # WEB DEVELOPMENT
-My HTML, CSS, and JavaScript learning journey.
+As of Now, I'm in "My HTML, CSS, and JavaScript learning journey".
