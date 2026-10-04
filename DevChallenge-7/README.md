@@ -2,13 +2,14 @@
 
 A responsive feature section built with HTML and CSS, based on the DevChallenges design.
 
-## 🔗 Links
+## Live Demo
 
-  Live Demo : https://triveni-3124.github.io/WEB-DEVELOPMENT/DevChallenge-7/index.html
-  Repository : https://github.com/triveni-3124/WEB-DEVELOPMENT
+[View Live Demo](https://triveni-3124.github.io/WEB-DEVELOPMENT/DevChallenge-7/index.html)
 
+## Repository
 
-## 🚀 Features
+[View Repository](https://github.com/triveni-3124/WEB-DEVELOPMENT)
+
 
 - Responsive layout for desktop, tablet, and mobile
 - Three feature cards with images and descriptions
